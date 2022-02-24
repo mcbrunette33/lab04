@@ -1,0 +1,20 @@
+body {
+ margin: 0in;
+ color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  background-image: url(https://images.unsplash.com/photo-1550109161-7262e652bf82?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80)
+}
+   h1{
+    float: center;
+    margin-left: 30px;
+    margin-right: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px rgb(250, 238, 238);
+}
+
+
+footer{
+    text-align:right;
+    background-color: whitesmoke;
+    height: 50px;
+}
