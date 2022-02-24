@@ -12,9 +12,24 @@ body {
     text-shadow: 5px 5px 5px rgb(250, 238, 238);
 }
 
+    h2{
+     float: center;
+     margin-right: 30px;
+     color: rgb(255, 255, 255);   
+     text-shadow: 5px 5px 5px rgb(255, 255, 255);
+     text-decoration:dashed;
 
+    }
+
+    h4{
+    color: rgb(255, 255, 255); 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+    }
+    
 footer{
-    text-align:right;
-    background-color: whitesmoke;
-    height: 50px;
+    text-align:center;
+    background-color: rgb(180, 26, 26);
+    height: 60px;
+    text-decoration-style: solid;
 }
