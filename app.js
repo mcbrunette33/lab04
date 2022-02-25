@@ -12,3 +12,5 @@ function checkGuest() {
     return guest; 
 } 
 //checkGuest();
+
+
